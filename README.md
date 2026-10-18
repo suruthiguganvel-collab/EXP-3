@@ -46,7 +46,8 @@ CIRCUIT DIAGRAM:<img width="978" height="645" alt="Screenshot 2026-10-18 194116"
 <img width="966" height="621" alt="Screenshot 2026-10-18 200524" src="https://github.com/user-attachments/assets/3e6045c8-3761-47e7-987e-a9428fdb283d" />
 
 
-Tabulation:1 <img width="1600" height="1110" alt="table 1" src="https://github.com/user-attachments/assets/8857d733-df74-46ae-8136-df2f0f05668f" />
+Tabulation:1 <img width="1599" height="1052" alt="table 1" src="https://github.com/user-attachments/assets/de5aa9f4-9756-472e-96dd-ab044328cce5" />
+
 
 
 	
@@ -59,7 +60,8 @@ CIRCUIT DIAGRAM:<img width="941" height="674" alt="Screenshot 2026-10-18 202241"
 
 
 
-Tabulation:2 <img width="1600" height="1293" alt="table 2" src="https://github.com/user-attachments/assets/3e6615b6-b93f-4e80-a45b-0ac9e6d38d2a" />
+Tabulation:2 <img width="1600" height="1186" alt="table 2" src="https://github.com/user-attachments/assets/a3a79fca-611f-4fe7-b0ec-bf9e80619f17" />
+
 
 
 
